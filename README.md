@@ -1,3 +1,4 @@
 # WiParam
 WiParam is a time series five-classification dataset based on received signal strength (RSS) readings. And the data set contains five types of RSS data : one pedestrian, two pedestrians, one bicycle, two bicycles and one vehicle. The data set is divided according to the ratio of 7:3.
 The data acquisition device consists of ESP32 and SX127x. ESP32 is WiFi SoC works at a frequency of 2.4 GHz, while the SX127x (x stands for 6 and 8) is used for generating and receiving the wireless signals with the frequencies of 915 MHz and 433 MHz.
+On July 27, 2023, an update was made to the RSS dataset in the 2.4GHz frequency band, considering an antenna height of 0.8 meters. This update introduced additional data to the existing dataset, enriching the available information for research and analysis purposes.
